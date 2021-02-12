@@ -14,5 +14,6 @@ CREATE TABLE public.usuarios ( id_usuarios integer NOT NULL DEFAULT nextval('usu
       TABLESPACE pg_default;
     
 
-ALTER TABLE public.usuarios OWNER to postgres;
+ALTER TABLE public.usuarios 
+OWNER to postgres;
 
