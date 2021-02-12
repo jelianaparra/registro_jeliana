@@ -10,7 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>Shopping World</name> <!-- Especificar el nombre -->
+    <name>Registro</name> <!-- Especificar el nombre -->
     <url>http://www.example.com</url>
 
     <properties>
